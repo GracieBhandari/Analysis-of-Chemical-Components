@@ -3,7 +3,7 @@
 A content-based recommendation system that compares skincare products by their **chemical ingredients**, helping people (especially those with sensitive skin) find products with similar formulas without needing a chemistry background.
 
 **Author:** Gracie Bhandari
-**Program:** MedTourEasy Data Analytics Traineeship (2024)
+
 
 ![Ingredient similarity map of moisturizers for dry skin](Screenshots/tsne_ingredient_map.png)
 
